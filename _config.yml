@@ -3,7 +3,7 @@ description: "Testing this out"
 url: "https://melissawinters.github.io"
 
 # Use GitHub Pages’ built-in theme with blog support:
-theme: minimal
+theme: minima
 
 # Helpful, GitHub-Pages-supported plugins:
 plugins:
