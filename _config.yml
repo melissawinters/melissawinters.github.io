@@ -1,0 +1,11 @@
+title: "Winters"
+description: "Testing this out"
+url: "https://melissawinters.github.io"
+
+# Use GitHub Pages’ built-in theme with blog support:
+theme: minima
+
+# Helpful, GitHub-Pages-supported plugins:
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
